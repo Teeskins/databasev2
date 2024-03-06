@@ -9,7 +9,7 @@ To be coherent with Teedata's naming, please consider using only following chara
 ├───[category]
 ├─────[name]
 │       [name].png
-│       .gitignore -> [name].thumbnail.png
+│       [name].thumbnail.png
 └
 ```
 
